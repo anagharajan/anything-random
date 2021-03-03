@@ -1,0 +1,23 @@
+{
+  "name": "anything-random",
+  "version": "1.0.0",
+  "description": "a simple random string creator module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagharajan/anything-random.git"
+  },
+  "keywords": [
+    "string",
+    "random"
+  ],
+  "author": "anagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagharajan/anything-random/issues"
+  },
+  "homepage": "https://github.com/anagharajan/anything-random#readme"
+}
